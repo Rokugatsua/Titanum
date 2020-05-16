@@ -1,5 +1,3 @@
-import { debug } from "console"
-
 function validationFormInput(htmlID:string, type:string){
     let formId = document.getElementById(htmlID)
     let valueVar:any

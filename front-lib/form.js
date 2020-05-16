@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function validationFormInput(htmlID, type) {
     let formId = document.getElementById(htmlID);
     let valueVar;
