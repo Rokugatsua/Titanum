@@ -1,0 +1,5 @@
+# Vscode Editor
+.vscode
+
+# Ts compile
+tsconfig.json
