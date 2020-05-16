@@ -24,5 +24,3 @@ function validationFormInput(htmlID:string, type:string){
         console.log("only string and number type")
     }
 }
-
-validationFormInput("username","string")

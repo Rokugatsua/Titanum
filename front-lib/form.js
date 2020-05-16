@@ -28,4 +28,3 @@ function validationFormInput(htmlID, type) {
         console.log("only string and number type");
     }
 }
-validationFormInput("username", "string");
